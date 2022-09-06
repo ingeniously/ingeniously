@@ -120,7 +120,6 @@ These are some of the technologies and tools that I work with:
     <th>Hosting</th>
     <td>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
-
     </td>
   </tr>
   <tr>
@@ -151,7 +150,7 @@ These are some of the technologies and tools that I work with:
        <img src="https://img.shields.io/badge/Matlab-25A162.svg?&style=flat-square&logo=Matlab&logoColor=white" />
        <img src="https://img.shields.io/badge/Arduino%20IDE-25A162.svg?&style=flat-square&logo=Arduino&logoColor=white" />
        <img src="https://img.shields.io/badge/Vbuilder-25A162.svg?&style=flat-square&logo=builder&logoColor=white" />
-       
+     
     </td>
   </tr>
   <tr>
@@ -203,7 +202,8 @@ These are some of the technologies and tools that I work with:
 <table>
   <tr>
     <td>
-      <img alt="Cedric's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ingeniously&bg_color=0D1117&color=5BCDEC&line=89bd0f&point=FFFFFF&hide_border=true" />
+    <img alt="Cedric's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ingeniously&&theme=dracula" />
+ 
 <!--       <img src="https://activity-graph.herokuapp.com/graph?username=ingeniously&theme=github&hide_border=true&bg_color=0D1117area_color=89bd0f&line=89bd0f&point=fff000&color=89bd0f&hide_border=true"> -->
     </td>
   </tr>
@@ -225,7 +225,7 @@ These are some of the technologies and tools that I work with:
 
 <!-- commits eating snake 🐍 -->
 
-<h2 align="center">Oh No !! the snake is coming for my commits 🐍</h2>
+<h2 align="center">commits 🐍</h2>
 
 ![snake gif](https://github.com/sumanshekhar698/sumanshekhar698/blob/output/github-contribution-grid-snake.svg)
 
@@ -237,6 +237,3 @@ These are some of the technologies and tools that I work with:
 [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
 
 (Be sure to click on it for the infinite scrolling version.) -->
-
-<!-- ReadMe Generator -->
-<!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
