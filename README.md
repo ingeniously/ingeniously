@@ -76,13 +76,13 @@ Some of the toys which i play with are Flutter ,Velocio ultra compact API, Atmel
 
 <!-- <p align="right">
 <a href="https://dev.to/sumanshekhar698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sumanshekhar698" height="30" width="40" /></a>
-<a href="https://twitter.com/suman_shekhar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suman_shekhar_" height="30" width="40" /></a>
+<a href="https://twitter.com/bassoleyipene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bassoleyipene" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sumanshekhar698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumanshekhar698" height="30" width="40" /></a>
 <a href="https://instagram.com/thenameissuman_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thenameissuman_" height="30" width="40" /></a>
 </p> -->
 
 <!-- <p align="center">
-<a href="https://twitter.com/suman_shekhar_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://twitter.com/bassoleyipene" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sumanshekhar698/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/thenameissuman_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="https://github.com/sumanshekhar698" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" /></a>
@@ -93,7 +93,7 @@ Some of the toys which i play with are Flutter ,Velocio ultra compact API, Atmel
 <p align="left">
 <a href = "https://linkedin.com/in/sumanshekhar698"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30px"/></a>
 <a href="https://www.hackerrank.com/suman_sumanshek1" ><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aaryachopkar" width="30" /></a>
- <a href = "https://twitter.com/suman_shekhar_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="30px"/></a>
+ <a href = "https://twitter.com/bassoleyipene"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="30px"/></a>
 </p> -->
 
 #### ⚡ Technologies
@@ -143,14 +143,13 @@ These are some of the technologies and tools that I work with:
   <tr>
     <th>Coding/Testing/simulation</th>
     <td>
-      <img src="https://img.shields.io/badge/-Virtual%20Box-%238D6748?style=flat-square&logo=mocha&logoColor=white" />
-      <img src="https://img.shields.io/badge/Android%20Studio-25A162.svg?&style=flat-square&logo=Atmel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Atmel%20Studio-25A162.svg?&style=flat-square&logo=Atmel&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Virtual%20Box-%238D6748?style=flat-square&logo=virtual&logoColor=white" />
+      <img src="https://img.shields.io/badge/Android%20Studio-007396.svg?&style=flat-square&logo=Atmel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Atmel%20Studio-C51A4A.svg?&style=flat-square&logo=Atmel&logoColor=white" />
       <img src="https://img.shields.io/badge/Mplab-25A162.svg?&style=flat-square&logo=Mplab&logoColor=white" />
        <img src="https://img.shields.io/badge/Matlab-25A162.svg?&style=flat-square&logo=Matlab&logoColor=white" />
-       <img src="https://img.shields.io/badge/Arduino%20IDE-25A162.svg?&style=flat-square&logo=Arduino&logoColor=white" />
-       <img src="https://img.shields.io/badge/Vbuilder-25A162.svg?&style=flat-square&logo=builder&logoColor=white" />
-     
+       <img src="https://img.shields.io/badge/Arduino%20IDE-00979D.svg?&style=flat-square&logo=Arduino&logoColor=white" />
+       <img src="https://img.shields.io/badge/Vbuilder-%23000000.svg?&style=flat-square&logo=builder&logoColor=white" />  
     </td>
   </tr>
   <tr>
@@ -171,7 +170,7 @@ These are some of the technologies and tools that I work with:
     <td>
       <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" />
       <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Esp32-00979D?style=flat-square&logo=Arduino&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Esp32-%23000000?style=flat-square&logo=Arduino&logoColor=white" />
     </td>
   </tr>
   
@@ -193,7 +192,7 @@ These are some of the technologies and tools that I work with:
   <a href="https://stackoverflow.com/users/19126942/suman-shekhar">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" />
   </a>
-  <a href="https://twitter.com/suman_shekhar_">
+  <a href="https://twitter.com/bassoleyipene">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" />
   </a>
 </p>
