@@ -63,7 +63,7 @@ Some of the toys which i play with are Flutter ,Velocio ultra compact API, Atmel
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,autocad,c,dart,firebase,vscode,git,github,latex,matlab,html,css,js,py,dt,raspberrypi,cpp,stackoverflow,&perline=12" /></a>
+    <img src="https://skillicons.dev/icons?i=arduino,autocad,c,dart,firebase,vscode,git,github,latex,matlab,html,css,js,py,raspberrypi,cpp,stackoverflow,&perline=12" /></a>
   </p>
 
   <!-- :zap:  -->
@@ -104,9 +104,10 @@ These are some of the technologies and tools that I work with:
  <tr>
     <th>Programming Languages</th>
     <td>      
-      <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" />
-      <img src="https://img.shields.io/badge/-C++-787CB5?style=flat-square&logo=c%2B%2B&logoColor=Crayola" />
-      <img src="https://img.shields.io/badge/-Python-ffff47?style=flat-square&logo=python" />      
+      <img src="https://img.shields.io/badge/-c-007396?style=flat-square&logo=c" />
+      <img src="https://img.shields.io/badge/-dart-787CB5?style=flat-square&logo=dart" />
+      <img src="https://img.shields.io/badge/-Python-ffff47?style=flat-square&logo=python" /> 
+      <img src="https://img.shields.io/badge/-c++-ffff47?style=flat-square&logo=c++" />  
    </td>
   </tr>
   <tr>
