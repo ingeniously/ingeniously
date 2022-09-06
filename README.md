@@ -202,7 +202,6 @@ These are some of the technologies and tools that I work with:
   <tr>
     <td>
     <img alt="Cedric's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ingeniously&&theme=dracula" />
- 
 <!--       <img src="https://activity-graph.herokuapp.com/graph?username=ingeniously&theme=github&hide_border=true&bg_color=0D1117area_color=89bd0f&line=89bd0f&point=fff000&color=89bd0f&hide_border=true"> -->
     </td>
   </tr>
