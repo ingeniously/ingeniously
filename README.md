@@ -42,7 +42,7 @@ Some of the toys which i play with are Flutter ,Velocio ultra compact API, Atmel
 <!-- Tech Stack -->
  <h2 align="center">Tech Stack <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/laptop.gif" width="50"></h2> 
 
-<!-- <p align="center">
+ <p align="center">
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
 <img src="https://skillicons.dev/icons?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
@@ -55,7 +55,7 @@ Some of the toys which i play with are Flutter ,Velocio ultra compact API, Atmel
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-</p> -->
+</p> 
 
 <!-- ### Languages and Tools: -->
 <h2 align="left">Languages and Tools:</h2>
