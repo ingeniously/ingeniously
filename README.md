@@ -107,47 +107,58 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/-c-007396?style=flat-square&logo=c" />
       <img src="https://img.shields.io/badge/-dart-787CB5?style=flat-square&logo=dart" />
       <img src="https://img.shields.io/badge/-Python-ffff47?style=flat-square&logo=python" /> 
-      <img src="https://img.shields.io/badge/-c++-ffff47?style=flat-square&logo=c++" />  
+      <img src="https://img.shields.io/badge/-c++-0078D67?style=flat-square&logo=cpp" />  
    </td>
   </tr>
   <tr>
     <th>Frameworks</th>
     <td>
-      <img src="https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=Crayola" />
+      <img src="https://img.shields.io/badge/-Qt-black?style=flat-square&logo=qt&logoColor=Crayola" />
     </td>
   </tr>
   <tr>
-    <th>Databases</th>
-    <td>
-      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <th>Hosting/SaaS/PaaS</th>
+    <th>Hosting</th>
     <td>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
-      <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=flat-square&logo=heroku&logoColor=white" />
+
     </td>
   </tr>
   <tr>
-    <th>Automate, Deploy, Platform & Tools</th>
-    <td>
-      <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" /> 
-      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
+  <th>Drivers</th>
+  <td>
+      <img src="https://img.shields.io/badge/SDI-FFCA28?style=flat-square&logo=SDI&logoColor=white" />
+      <img src="https://img.shields.io/badge/TMC-FFCA28?style=flat-square&logo=TMC&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hy-FFCA28?style=flat-square&logo=HY&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <th>Testing</th>
+    <th>Automate,Microcontrollers</th>
     <td>
-      <img src="https://img.shields.io/badge/-Mocha-%238D6748?style=flat-square&logo=mocha&logoColor=white" />
-      <img src="https://img.shields.io/badge/Junit5-25A162.svg?&style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Velocio-black?style=flat-square&logo=velocio" /> 
+      <img src="https://img.shields.io/badge/-OMRON-black?style=flat-square&logo=velocio" /> 
+      <img src="https://img.shields.io/badge/-Avr-181717?style=flat-square&logo=Avr" />
+      <img src="https://img.shields.io/badge/-PIC-181717?style=flat-square&logo=PIC" />
+      <img src="https://img.shields.io/badge/-Node MCU-181717?style=flat-square&logo=Avr" />
+    </td>
+  </tr>
+  <tr>
+    <th>Coding/Testing/simulation</th>
+    <td>
+      <img src="https://img.shields.io/badge/-Virtual%20Box-%238D6748?style=flat-square&logo=mocha&logoColor=white" />
+      <img src="https://img.shields.io/badge/Android%20Studio-25A162.svg?&style=flat-square&logo=Atmel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Atmel%20Studio-25A162.svg?&style=flat-square&logo=Atmel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Mplab-25A162.svg?&style=flat-square&logo=Mplab&logoColor=white" />
+       <img src="https://img.shields.io/badge/Matlab-25A162.svg?&style=flat-square&logo=Matlab&logoColor=white" />
+       <img src="https://img.shields.io/badge/Arduino%20IDE-25A162.svg?&style=flat-square&logo=Arduino&logoColor=white" />
+       <img src="https://img.shields.io/badge/Vbuilder-25A162.svg?&style=flat-square&logo=builder&logoColor=white" />
+       
     </td>
   </tr>
   <tr>
     <th>Operating Systems</th>
     <td>
       <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
-      <img src="https://img.shields.io/badge/mac%20os-000000.svg?&style=flat-square&logo=apple&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-000000.svg?&style=flat-square&logo=linux&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -161,14 +172,15 @@ These are some of the technologies and tools that I work with:
     <td>
       <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" />
       <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Esp32-00979D?style=flat-square&logo=Arduino&logoColor=white" />
     </td>
   </tr>
   
 </table>
 
 
-<p align="center">
-  <img src="assets/header.png" alt="header"/>
+  <p align="center">
+  <img src="assets/header.png" alt="You Still Here???"/>
 </p>
 
   <!-- SOCIAL LINKS -->
@@ -176,7 +188,7 @@ These are some of the technologies and tools that I work with:
 <i><h3 align="right">Connect with me</h3></i>
 
 <p align="right">
-  <a href="https://linkedin.com/in/sumanshekhar698">
+  <a href="www.linkedin.com/in/cedric-françois-bassole">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
   <a href="https://stackoverflow.com/users/19126942/suman-shekhar">
@@ -191,8 +203,8 @@ These are some of the technologies and tools that I work with:
 <table>
   <tr>
     <td>
-      <img alt="Suman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sumanshekhar698&bg_color=0D1117&color=5BCDEC&line=89bd0f&point=FFFFFF&hide_border=true" />
-<!--       <img src="https://activity-graph.herokuapp.com/graph?username=sumanshekhar698&theme=github&hide_border=true&bg_color=0D1117area_color=89bd0f&line=89bd0f&point=fff000&color=89bd0f&hide_border=true"> -->
+      <img alt="Cedric's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ingeniously&bg_color=0D1117&color=5BCDEC&line=89bd0f&point=FFFFFF&hide_border=true" />
+<!--       <img src="https://activity-graph.herokuapp.com/graph?username=ingeniously&theme=github&hide_border=true&bg_color=0D1117area_color=89bd0f&line=89bd0f&point=fff000&color=89bd0f&hide_border=true"> -->
     </td>
   </tr>
 </table>
@@ -201,10 +213,10 @@ These are some of the technologies and tools that I work with:
 <table>
   <tr>
    <td>
-     <img src="https://github-readme-stats.vercel.app/api?username=sumanshekhar698&show_icons=true&theme=merko&hide_border=true" />
+     <img src="https://github-readme-stats.vercel.app/api?username=ingeniously&show_icons=true&theme=merko&hide_border=true" />
    </td>
    <td>
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumanshekhar698&theme=merko&hide_border=true" />    
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ingeniously&theme=merko&hide_border=true" />    
    </td>
  </tr>
 </table>
