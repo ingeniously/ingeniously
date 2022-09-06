@@ -16,7 +16,7 @@
   <img src="https://profile-counter.glitch.me/ingeniously/count.svg" />
 </p> -->
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sumanshekhar698&label=Profile%20views&color=0e75b6&style=flat" alt="sumanshekhar" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ingeniously&label=Profile%20views&color=0e75b6&style=flat" alt="ingeniously" /> </p>
 
 <!-- <p align="right">
    <img src="https://badges.pufler.dev/visits/sumanshekhar698/sumanshekhar698"/>
@@ -40,7 +40,7 @@ Some of the toys which i play with are Flutter ,Velocio ultra compact API, Atmel
 - ⚡ Fun fact: I love drinking ice tea while coding to make the code look icy🧊 😸
 
 <!-- Tech Stack -->
-<!-- <h2 align="center">Tech Stack <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/laptop.gif" width="50"></h2> -->
+ <h2 align="center">Tech Stack <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/laptop.gif" width="50"></h2> 
 
 <!-- <p align="center">
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
@@ -63,7 +63,7 @@ Some of the toys which i play with are Flutter ,Velocio ultra compact API, Atmel
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,idea,eclipse,vscode,vim,redis,mongodb,mysql,html,css,js,bootstrap,sqlite,py,docker,netlify,git,gitlab,stackoverflow,nginx,jenkins&perline=12" /></a>
+    <img src="https://skillicons.dev/icons?i=arduino,autocad,C,dart,firebase,vscode,git,github,latex,matlab,html,css,js,py,dt,py,raspberry,c++,stackoverflow,nginx,jenkins&perline=12" /></a>
   </p>
 
   <!-- :zap:  -->
