@@ -30,14 +30,14 @@
 <!-- <img src="https://octodex.github.com/images/luchadortocat.png" width="300" align="right"> -->
 <img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right">
 
-📍I am Suman from India, and I do backend development.
+📍I am Cedric Francois , and I work on embedded system project,and robotic and also app dev.
 I enjoy learning new technologies and exploring tech.
-Some of the toys which I play with are Spring framework and Dropwizard.
+Some of the toys which i play with are Flutter ,Velocio ultra compact API, Atmel AVR .
 
-- 🔭 I’m working on Building web apps using Java tech stack.
-- 🌱 I’m currently learning Java and exploring the Spring framework family.
-- 📫 Reach me @ https://www.sumanshekhar.com/
-- ⚡ Fun fact: I love ice cream while coding to make the code look cool🧊 😸
+- 🔭 I’m working on Building mobile apps for domotique and IOT using Dart.
+- 🌱 I’m currently learning Python and exploring AI field.
+- 📫 Reach me bassoleyipene@gmail.com
+- ⚡ Fun fact: I love drinking ice tea while coding to make the code look icy🧊 😸
 
 <!-- Tech Stack -->
 <!-- <h2 align="center">Tech Stack <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/laptop.gif" width="50"></h2> -->
