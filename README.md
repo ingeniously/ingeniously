@@ -229,9 +229,8 @@ These are some of the technologies and tools that I work with:
 
 <!--   <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/snake.gif" width="50"></h2> -->
 
-<!--
-# My GitHub contributions as a Game of Life
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Cedric-Francois&show_icons=true&theme=radical)
+# My GitHub contributions 
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
 
-(Be sure to click on it for the infinite scrolling version.) -->
