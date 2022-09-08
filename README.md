@@ -234,3 +234,4 @@ These are some of the technologies and tools that I work with:
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingeniously&theme=dark&show_icons=true)
