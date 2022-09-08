@@ -195,20 +195,8 @@ These are some of the technologies and tools that I work with:
   <a href="https://twitter.com/bassoleyipene">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" />
   </a>
-</p>
 
-<!-- GitHub Contribution Graph -->
-<br>
-<!-- GitHub Stats -->
-<table>
-  <tr>
-   <td>
-     <img src="https://github-readme-stats.vercel.app/api?username=ingeniously&show_icons=true&theme=merko&hide_border=true" />
-   </td>
- </tr>
-</table>
-
-<h2 align="center">commits 🐍</h2>
+<h2>commits 🐍</h2>
 
 <!--   <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/snake.gif" width="50"></h2> -->
 
