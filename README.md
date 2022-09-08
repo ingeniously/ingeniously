@@ -198,14 +198,6 @@ These are some of the technologies and tools that I work with:
 </p>
 
 <!-- GitHub Contribution Graph -->
-<table>
-  <tr>
-    <td>
- <!--     <img alt="Cedric's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ingeniously&&theme=dracula" /> -->
-     <img src="https://activity-graph.herokuapp.com/graph?username=ingeniously&theme=github&hide_border=true&bg_color=0D1117area_color=89bd0f&line=89bd0f&point=fff000&color=89bd0f&hide_border=true"> 
-    </td>
-  </tr>
-</table>
 <br>
 <!-- GitHub Stats -->
 <table>
@@ -213,20 +205,15 @@ These are some of the technologies and tools that I work with:
    <td>
      <img src="https://github-readme-stats.vercel.app/api?username=ingeniously&show_icons=true&theme=merko&hide_border=true" />
    </td>
-   <td>
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ingeniously&theme=merko&hide_border=true" />    
-   </td>
  </tr>
 </table>
 
-<br><br>
-
-<!--
-
 <h2 align="center">commits 🐍</h2>
 
+<!--   <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/snake.gif" width="50"></h2> -->
+
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=ingeniously&show_icons=true&theme=radical)
 # My GitHub contributions 
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingeniously&theme=dark&show_icons=true)
