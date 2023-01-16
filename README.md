@@ -203,5 +203,4 @@ These are some of the technologies and tools that I work with:
 # My GitHub contributions 
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
