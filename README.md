@@ -204,3 +204,5 @@ These are some of the technologies and tools that I work with:
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
