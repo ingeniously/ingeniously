@@ -203,4 +203,12 @@ These are some of the technologies and tools that I work with:
 # My GitHub contributions 
 
 <!--START_SECTION:waka-->
+
+```text
+Markdown   25 mins         ██████████░░░░░░░░░░░░░░░   39.34 %
+Julia      14 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.38 %
+YAML       12 mins         █████░░░░░░░░░░░░░░░░░░░░   19.57 %
+Other      5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
+```
+
 <!--END_SECTION:waka-->
