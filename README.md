@@ -203,18 +203,6 @@ These are some of the technologies and tools that I work with:
 # My GitHub contributions 
 
 <!--START_SECTION:waka-->
-
-```text
-From: 15 January 2023 - To: 17 January 2023
-
-Total Time: 1 hr 4 mins
-
-Markdown   25 mins         >>>>>>>>>>---------------   39.34 %
-Julia      14 mins         >>>>>>-------------------   22.38 %
-YAML       12 mins         >>>>>--------------------   19.57 %
-Other      5 mins          >>-----------------------   08.75 %
-```
-
 <!--END_SECTION:waka-->
 
 [![wakatime](https://wakatime.com/badge/user/cbf6242e-4e94-4ddb-b2e1-00f138829c35.svg)](https://wakatime.com/@cbf6242e-4e94-4ddb-b2e1-00f138829c35)
