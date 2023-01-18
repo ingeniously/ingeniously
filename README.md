@@ -202,19 +202,81 @@ These are some of the technologies and tools that I work with:
 ![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=ingeniously&show_icons=true&theme=radical)
 # My GitHub contributions 
 
-<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C176%20hrs%2020%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1261-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 27 Contributions in the Year 2023
+ > 
+> 📦 182.5 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 21 Public Repositories 
+ > 
+> 🔑 23 Private Repositories  
+ > 
+**I'm an Early 🐤** 
 
 ```text
-From: 15 January 2023 - To: 17 January 2023
+🌞 Morning    122 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.77% 
+🌆 Daytime    323 commits    █████████░░░░░░░░░░░░░░░░   39.1% 
+🌃 Evening    261 commits    ████████░░░░░░░░░░░░░░░░░   31.6% 
+🌙 Night      120 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.53%
 
-Total Time: 1 hr 4 mins
+```
+📅 **I'm Most Productive on Sunday** 
 
-Markdown   25 mins         >>>>>>>>>>---------------   39.34 %
-Julia      14 mins         >>>>>>-------------------   22.38 %
-YAML       12 mins         >>>>>--------------------   19.57 %
-Other      5 mins          >>-----------------------   08.75 %
+```text
+Monday       107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.95% 
+Tuesday      99 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.99% 
+Wednesday    103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.47% 
+Thursday     112 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.56% 
+Friday       95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.5% 
+Saturday     136 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.46% 
+Sunday       174 commits    █████░░░░░░░░░░░░░░░░░░░░   21.07%
+
 ```
 
-<!--END_SECTION:waka-->
 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Java                     5 hrs 48 mins       █████████████░░░░░░░░░░░░   53.18% 
+JavaScript               3 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   28.66% 
+XML                      1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   9.97% 
+JSON                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.02% 
+Protocol Buffer          13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
+
+🔥 Editors: 
+Android Studio           6 hrs 58 mins       ████████████████░░░░░░░░░   63.78% 
+WebStorm                 3 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   36.22%
+
+💻 Operating System: 
+Mac                      10 hrs 55 mins      █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               33 repos            ████████████░░░░░░░░░░░░░   49.25% 
+Vue                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.94% 
+CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.45% 
+Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.96% 
+Dart                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.97%
+
+```
+
+
+
+ Last Updated on 18/01/2023 01:49:15 UTC
+<!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/cbf6242e-4e94-4ddb-b2e1-00f138829c35.svg)](https://wakatime.com/@cbf6242e-4e94-4ddb-b2e1-00f138829c35)
