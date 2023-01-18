@@ -205,6 +205,8 @@ These are some of the technologies and tools that I work with:
 <!--START_SECTION:waka-->
 
 ```text
+From: 15 January 2023 - To: 17 January 2023
+
 Total Time: 1 hr 4 mins
 
 Markdown   25 mins         >>>>>>>>>>---------------   39.34 %
