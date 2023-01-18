@@ -199,9 +199,9 @@ These are some of the technologies and tools that I work with:
 
 <!--   <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/snake.gif" width="50"></h2> -->
 
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=ingeniously&show_icons=true&theme=radical)
+![Les Stats GitHub de cedric](https://github-readme-stats.vercel.app/api?username=ingeniously&show_icons=true&theme=radical)
 # My GitHub contributions 
-
+<!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C176%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1261-blue)
