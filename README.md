@@ -204,7 +204,7 @@ These are some of the technologies and tools that I work with:
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 January 2023 - To: 20 January 2023
+From: 14 January 2023 - To: 21 January 2023
 
 Dart       1 hr 35 mins    >>>>>>>>>----------------   37.47 %
 YAML       56 mins         >>>>>>-------------------   22.31 %
