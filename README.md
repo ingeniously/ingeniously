@@ -204,14 +204,14 @@ These are some of the technologies and tools that I work with:
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 January 2023 - To: 24 January 2023
+From: 18 January 2023 - To: 25 January 2023
 
-Dart       2 hrs           >>>>>>>>>>>--------------   45.70 %
-YAML       44 mins         >>>>---------------------   16.63 %
-Python     33 mins         >>>----------------------   12.61 %
-Git        20 mins         >>-----------------------   07.69 %
-TeX        19 mins         >>-----------------------   07.25 %
-HTML       12 mins         >------------------------   04.63 %
+Dart       1 hr 27 mins    >>>>>>>>>>>>-------------   48.04 %
+Python     33 mins         >>>>>--------------------   18.23 %
+TeX        19 mins         >>>----------------------   10.52 %
+HTML       12 mins         >>-----------------------   06.71 %
+Git        11 mins         >>-----------------------   06.29 %
+YAML       5 mins          >------------------------   03.06 %
 ```
 
 <!--END_SECTION:waka-->
