@@ -204,6 +204,17 @@ These are some of the technologies and tools that I work with:
 <!--START_SECTION:waka-->
 
 ```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JavaScript               17 mins             █████████████████░░░░░░░░   70.38% 
+Swift                   7 mins              ███████░░░░░░░░░░░░░░░░░░   29.62%
+
+🔥 Editors: 
+vscode                 25 mins             █████████████████████████   100.0%
+
+💻 Operating System: 
+Mac                      25 mins             █████████████████████████   100.0%
 
 ```
 ```text
