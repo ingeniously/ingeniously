@@ -204,7 +204,7 @@ These are some of the technologies and tools that I work with:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%201%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-139-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-165-blue)
 
 **🐱 My GitHub Data** 
 
@@ -218,29 +218,6 @@ These are some of the technologies and tools that I work with:
  > 
 > 🔑 3 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    74 commits     ████████████░░░░░░░░░░░░░   49.33% 
-🌃 Evening    66 commits     ███████████░░░░░░░░░░░░░░   44.0% 
-🌙 Night      10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
-Tuesday      50 commits     ████████░░░░░░░░░░░░░░░░░   33.33% 
-Wednesday    23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.33% 
-Thursday     45 commits     ███████░░░░░░░░░░░░░░░░░░   30.0% 
-Friday       6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.0% 
-Saturday     4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.67% 
-Sunday       4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.67%
-
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -253,13 +230,6 @@ Swift                    0 secs              ░░░░░░░░░░░�
 
 🔥 Editors: 
 VS Code                  39 mins             █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-diabetes_prediction_ann  38 mins             ████████████████████████░   99.17% 
-AppDev                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.83%
-
-💻 Operating System: 
-Windows                  39 mins             █████████████████████████   100.0%
 
 ```
 
@@ -277,6 +247,6 @@ Jupyter Notebook         2 repos             ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ingeniously/ingeniously/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/01/2023 16:31:52 UTC
+ Last Updated on 31/01/2023 16:54:23 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/cbf6242e-4e94-4ddb-b2e1-00f138829c35.svg)](https://wakatime.com/@cbf6242e-4e94-4ddb-b2e1-00f138829c35)
