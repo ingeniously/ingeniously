@@ -14,7 +14,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          BLOCKS: ->
           # TIME_RANGE: all_time
           # SHOW_TIME: true
           # SHOW_MASKED_TIME: true
@@ -22,3 +21,9 @@ jobs:
           # profile readme, remove the leading `#` to use them
           # GH_TOKEN: ${{ secrets.GH_TOKEN }}
           # REPOSITORY: <gh_username/gh_username>
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_PROJECTS: "False"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_PROFILE_VIEWS: "False"
+          COMMIT_BY_ME: "False"
+
