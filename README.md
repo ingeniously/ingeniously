@@ -202,7 +202,7 @@ These are some of the technologies and tools that I work with:
 ![Les Stats GitHub de cedric](https://github-readme-stats.vercel.app/api?username=ingeniously&show_icons=true&theme=radical)
 # My GitHub contributions 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-195-blue)
 
@@ -247,6 +247,6 @@ Jupyter Notebook         2 repos             ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ingeniously/ingeniously/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/01/2023 17:45:58 UTC
+ Last Updated on 31/01/2023 17:59:19 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/cbf6242e-4e94-4ddb-b2e1-00f138829c35.svg)](https://wakatime.com/@cbf6242e-4e94-4ddb-b2e1-00f138829c35)
