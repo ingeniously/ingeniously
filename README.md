@@ -203,23 +203,5 @@ These are some of the technologies and tools that I work with:
 # My GitHub contributions 
 <!--START_SECTION:waka-->
 
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-JavaScript               17 mins             █████████████████░░░░░░░░   70.38% 
-Swift                   7 mins              ███████░░░░░░░░░░░░░░░░░░   29.62%
-
-🔥 Editors: 
-vscode                 25 mins             █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                      25 mins             █████████████████████████   100.0%
-
-```
-```text
-
-```
-
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/cbf6242e-4e94-4ddb-b2e1-00f138829c35.svg)](https://wakatime.com/@cbf6242e-4e94-4ddb-b2e1-00f138829c35)
