@@ -204,7 +204,7 @@ These are some of the technologies and tools that I work with:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-201-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-148-blue)
 
 **🐱 My GitHub Data** 
 
@@ -224,12 +224,14 @@ These are some of the technologies and tools that I work with:
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   33 mins             █████████████████████░░░░   84.57% 
-Dart                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.6% 
-Swift                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.83%
+Python                   29 mins             ██████████░░░░░░░░░░░░░░░   41.32% 
+C++                      18 mins             ██████░░░░░░░░░░░░░░░░░░░   26.17% 
+Swift                    13 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.46% 
+Julia                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.04% 
+XML                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.96%
 
 🔥 Editors: 
-VS Code                  39 mins             █████████████████████████   100.0%
+VS Code                  1 hr 11 mins        █████████████████████████   100.0%
 
 ```
 
@@ -247,6 +249,6 @@ Jupyter Notebook         2 repos             ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ingeniously/ingeniously/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/01/2023 18:38:07 UTC
+ Last Updated on 01/02/2023 06:37:40 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/cbf6242e-4e94-4ddb-b2e1-00f138829c35.svg)](https://wakatime.com/@cbf6242e-4e94-4ddb-b2e1-00f138829c35)
