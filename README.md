@@ -202,9 +202,9 @@ These are some of the technologies and tools that I work with:
 ![Les Stats GitHub de cedric](https://github-readme-stats.vercel.app/api?username=ingeniously&show_icons=true&theme=radical)
 # My GitHub contributions 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2034%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-103-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-104-blue)
 
 **🐱 My GitHub Data** 
 
@@ -224,14 +224,14 @@ These are some of the technologies and tools that I work with:
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   29 mins             ██████████░░░░░░░░░░░░░░░   41.32% 
-C++                      18 mins             ██████░░░░░░░░░░░░░░░░░░░   26.17% 
-Swift                    13 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.46% 
-Julia                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.04% 
-XML                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.96%
+Python                   29 mins             █████████░░░░░░░░░░░░░░░░   38.41% 
+C++                      18 mins             ██████░░░░░░░░░░░░░░░░░░░   24.33% 
+Swift                    13 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.08% 
+Julia                    9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.72% 
+XML                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.54%
 
 🔥 Editors: 
-VS Code                  1 hr 11 mins        █████████████████████████   100.0%
+VS Code                  1 hr 16 mins        █████████████████████████   100.0%
 
 ```
 
@@ -249,6 +249,6 @@ Jupyter Notebook         2 repos             ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ingeniously/ingeniously/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/02/2023 18:38:57 UTC
+ Last Updated on 02/02/2023 18:38:26 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/cbf6242e-4e94-4ddb-b2e1-00f138829c35.svg)](https://wakatime.com/@cbf6242e-4e94-4ddb-b2e1-00f138829c35)
