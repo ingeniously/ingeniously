@@ -200,22 +200,56 @@ These are some of the technologies and tools that I work with:
 
 <!--   <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/snake.gif" width="50"></h2> -->
 
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=ingeniously&show_icons=true&theme=radical)
+![Les Stats GitHub de cedric](https://github-readme-stats.vercel.app/api?username=ingeniously&show_icons=true&theme=radical)
 # My GitHub contributions 
-
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2038%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-98-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 67 Contributions in the Year 2023
+ > 
+> 📦 133.9 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 18 Public Repositories 
+ > 
+> 🔑 3 Private Repositories  
+ > 
+📊 **This Week I Spent My Time On** 
 
 ```text
-From: 15 January 2023 - To: 17 January 2023
+⌚︎ Time Zone: Europe/Paris
 
-Total Time: 1 hr 4 mins
+💬 Programming Languages: 
+Python                   2 hrs 14 mins       ██████████████████░░░░░░░   72.53% 
+C++                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.11% 
+Swift                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.52% 
+Julia                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.24% 
+XML                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.3%
 
-Markdown   25 mins         >>>>>>>>>>---------------   39.34 %
-Julia      14 mins         >>>>>>-------------------   22.38 %
-YAML       12 mins         >>>>>--------------------   19.57 %
-Other      5 mins          >>-----------------------   08.75 %
+🔥 Editors: 
+VS Code                  3 hrs 5 mins        █████████████████████████   100.0%
+
 ```
 
-<!--END_SECTION:waka-->
+**I Mostly Code in C++** 
 
+```text
+C++                      6 repos             ██████████████████░░░░░░░   75.0% 
+Jupyter Notebook         2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/ingeniously/ingeniously/main/charts/bar_graph.png) 
+
+
+ Last Updated on 03/02/2023 18:38:31 UTC
+<!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/cbf6242e-4e94-4ddb-b2e1-00f138829c35.svg)](https://wakatime.com/@cbf6242e-4e94-4ddb-b2e1-00f138829c35)
