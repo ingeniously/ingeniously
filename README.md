@@ -203,9 +203,9 @@ These are some of the technologies and tools that I work with:
 ![Les Stats GitHub de cedric](https://github-readme-stats.vercel.app/api?username=ingeniously&show_icons=true&theme=radical)
 # My GitHub contributions 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2044%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-104-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-112-blue)
 
 **🐱 My GitHub Data** 
 
@@ -234,6 +234,6 @@ MATLAB                   11 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 04/02/2023 11:47:23 UTC
+ Last Updated on 04/02/2023 18:35:00 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/cbf6242e-4e94-4ddb-b2e1-00f138829c35.svg)](https://wakatime.com/@cbf6242e-4e94-4ddb-b2e1-00f138829c35)
