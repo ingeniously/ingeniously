@@ -18,4 +18,7 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_COMMIT: "False"
           TIME_RANGE: "last_30_days"
+          SHOW_LOC_CHART: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_EDITORS: "False"
           
