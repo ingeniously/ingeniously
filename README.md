@@ -203,19 +203,19 @@ These are some of the technologies and tools that I work with:
 ![Les Stats GitHub de cedric](https://github-readme-stats.vercel.app/api?username=ingeniously&show_icons=true&theme=radical)
 # My GitHub contributions 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2034%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-98-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-104-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 67 Contributions in the Year 2023
+> 🏆 83 Contributions in the Year 2023
  > 
-> 📦 133.9 kB Used in GitHub's Storage 
+> 📦 160.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 18 Public Repositories 
+> 📜 19 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
@@ -225,31 +225,15 @@ These are some of the technologies and tools that I work with:
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   2 hrs 14 mins       ██████████████████░░░░░░░   72.53% 
-C++                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.11% 
-Swift                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.52% 
-Julia                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.24% 
-XML                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.3%
-
-🔥 Editors: 
-VS Code                  3 hrs 5 mins        █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in C++** 
-
-```text
-C++                      6 repos             ██████████████████░░░░░░░   75.0% 
-Jupyter Notebook         2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0%
+Python                   2 hrs 18 mins       ███████████░░░░░░░░░░░░░░   46.64% 
+Markdown                 1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   29.11% 
+C++                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.3% 
+Swift                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.69% 
+MATLAB                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.72%
 
 ```
 
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/ingeniously/ingeniously/main/charts/bar_graph.png) 
-
-
- Last Updated on 03/02/2023 18:38:31 UTC
+ Last Updated on 04/02/2023 11:47:23 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/cbf6242e-4e94-4ddb-b2e1-00f138829c35.svg)](https://wakatime.com/@cbf6242e-4e94-4ddb-b2e1-00f138829c35)
