@@ -205,7 +205,7 @@ These are some of the technologies and tools that I work with:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2018%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-113-blue)
 
 **🐱 My GitHub Data** 
 
@@ -225,15 +225,15 @@ These are some of the technologies and tools that I work with:
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   2 hrs 19 mins       ███████████░░░░░░░░░░░░░░   44.41% 
-Markdown                 1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   27.49% 
-MATLAB                   27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.73% 
-C++                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.95% 
-Swift                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.42%
+Python                   4 hrs 51 mins       ███████████████░░░░░░░░░░   62.24% 
+Markdown                 1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.47% 
+MATLAB                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.86% 
+C++                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.0% 
+Swift                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.97%
 
 ```
 
 
- Last Updated on 05/02/2023 18:34:55 UTC
+ Last Updated on 06/02/2023 18:37:28 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/cbf6242e-4e94-4ddb-b2e1-00f138829c35.svg)](https://wakatime.com/@cbf6242e-4e94-4ddb-b2e1-00f138829c35)
