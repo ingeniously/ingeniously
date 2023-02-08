@@ -203,7 +203,7 @@ These are some of the technologies and tools that I work with:
 ![Les Stats GitHub de cedric](https://github-readme-stats.vercel.app/api?username=ingeniously&show_icons=true&theme=radical)
 # My GitHub contributions 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-113-blue)
 
@@ -225,15 +225,15 @@ These are some of the technologies and tools that I work with:
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   4 hrs 51 mins       ███████████████░░░░░░░░░░   62.18% 
-Markdown                 1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.45% 
-MATLAB                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.86% 
-C++                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.99% 
-Swift                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.97%
+Python                   4 hrs 26 mins       █████████████░░░░░░░░░░░░   52.37 % 
+Dart                     1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+Markdown                 1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+MATLAB                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Git                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 ```
 
 
- Last Updated on 07/02/2023 18:37:43 UTC
+ Last Updated on 08/02/2023 18:38:40 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/cbf6242e-4e94-4ddb-b2e1-00f138829c35.svg)](https://wakatime.com/@cbf6242e-4e94-4ddb-b2e1-00f138829c35)
