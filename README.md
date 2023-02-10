@@ -203,15 +203,15 @@ These are some of the technologies and tools that I work with:
 ![Les Stats GitHub de cedric](https://github-readme-stats.vercel.app/api?username=ingeniously&show_icons=true&theme=radical)
 # My GitHub contributions 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2016%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-117-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-121-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 99 Contributions in the Year 2023
  > 
-> 📦 256.0 kB Used in GitHub's Storage 
+> 📦 393.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -234,6 +234,6 @@ MATLAB                   27 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 10/02/2023 15:03:03 UTC
+ Last Updated on 10/02/2023 18:38:53 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/cbf6242e-4e94-4ddb-b2e1-00f138829c35.svg)](https://wakatime.com/@cbf6242e-4e94-4ddb-b2e1-00f138829c35)
