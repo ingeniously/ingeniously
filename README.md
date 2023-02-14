@@ -205,7 +205,7 @@ These are some of the technologies and tools that I work with:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-121-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
 
 **🐱 My GitHub Data** 
 
@@ -225,15 +225,15 @@ These are some of the technologies and tools that I work with:
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Dart                     18 hrs              ███████████████░░░░░░░░░░   61.34 % 
-Other                    6 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   23.10 % 
-Python                   2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Dart                     18 hrs              ███████████████░░░░░░░░░░   61.35 % 
+Other                    6 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   23.08 % 
+Python                   2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
 Markdown                 1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 JSON                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 ```
 
 
- Last Updated on 13/02/2023 18:39:07 UTC
+ Last Updated on 14/02/2023 18:38:55 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/cbf6242e-4e94-4ddb-b2e1-00f138829c35.svg)](https://wakatime.com/@cbf6242e-4e94-4ddb-b2e1-00f138829c35)
