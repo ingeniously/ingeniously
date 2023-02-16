@@ -205,7 +205,7 @@ These are some of the technologies and tools that I work with:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 
 **🐱 My GitHub Data** 
 
@@ -234,6 +234,6 @@ JSON                     32 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 16/02/2023 16:18:39 UTC
+ Last Updated on 16/02/2023 18:37:58 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/cbf6242e-4e94-4ddb-b2e1-00f138829c35.svg)](https://wakatime.com/@cbf6242e-4e94-4ddb-b2e1-00f138829c35)
