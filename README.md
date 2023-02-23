@@ -203,37 +203,36 @@ These are some of the technologies and tools that I work with:
 ![Les Stats GitHub de cedric](https://github-readme-stats.vercel.app/api?username=ingeniously&show_icons=true&theme=radical)
 # My GitHub contributions 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 118 Contributions in the Year 2023
+> 📦 395.0 kB Used in GitHub's Storage 
  > 
-> 📦 394.6 kB Used in GitHub's Storage 
+> 🏆 123 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 20 Public Repositories 
+> 📜 21 Public Repositories 
  > 
-> 🔑 5 Private Repositories  
+> 🔑 5 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Paris
+🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   9 hrs 7 mins        ███████████████████░░░░░░   76.83 % 
-Julia                    1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Dart                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-Markdown                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-
+Python                   9 hrs 2 mins        ████████████████████░░░░░   81.03 % 
+Julia                    1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Markdown                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+CSV                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
 
 
- Last Updated on 21/02/2023 18:37:27 UTC
+ Last Updated on 23/02/2023 18:38:59 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/cbf6242e-4e94-4ddb-b2e1-00f138829c35.svg)](https://wakatime.com/@cbf6242e-4e94-4ddb-b2e1-00f138829c35)
