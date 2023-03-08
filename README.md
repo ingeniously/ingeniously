@@ -203,36 +203,16 @@ These are some of the technologies and tools that I work with:
 ![Les Stats GitHub de cedric](https://github-readme-stats.vercel.app/api?username=ingeniously&show_icons=true&theme=radical)
 # My GitHub contributions 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2033%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 395.1 kB Used in GitHub's Storage 
- > 
-> 🏆 135 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 22 Public Repositories 
- > 
-> 🔑 5 Private Repositories 
- > 
-📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Europe/Paris
+From: 15 January 2023 - To: 07 March 2023
 
-💬 Programming Languages: 
-TeX                      4 hrs 55 mins       ████████████░░░░░░░░░░░░░   49.07 % 
-Python                   3 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   30.25 % 
-OpenEdge ABL             27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Dart                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+Total Time: 66 hrs 51 mins
+
+Dart           21 hrs 11 mins  >>>>>>>>-----------------   31.69 %
+Python         21 hrs 8 mins   >>>>>>>>-----------------   31.63 %
+Other          7 hrs 29 mins   >>>----------------------   11.22 %
 ```
 
-
- Last Updated on 01/03/2023 18:38:48 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/cbf6242e-4e94-4ddb-b2e1-00f138829c35.svg)](https://wakatime.com/@cbf6242e-4e94-4ddb-b2e1-00f138829c35)
