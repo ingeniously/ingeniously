@@ -186,7 +186,7 @@ These are some of the technologies and tools that I work with:
 <i><h3 align="right">Connect with me</h3></i>
 
 <p align="right">
-  <a href="www.linkedin.com/in/cedric-françois-bassole">
+  <a href="https://www.linkedin.com/in/cedric-fran%C3%A7ois-bassole/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
   <a href="https://stackoverflow.com/users/19126942/suman-shekhar">
