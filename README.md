@@ -107,7 +107,7 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/-c-007396?style=flat-square&logo=c" />
       <img src="https://img.shields.io/badge/-dart-787CB5?style=flat-square&logo=dart" />
       <img src="https://img.shields.io/badge/-Python-ffff47?style=flat-square&logo=python" /> 
-      <img src="https://img.shields.io/badge/-c++-0078D67?style=flat-square&logo=cpp" />  
+      <img src="https://img.shields.io/badge/-Julia-0078D67?style=flat-square&logo=julia" />  
    </td>
   </tr>
   <tr>
