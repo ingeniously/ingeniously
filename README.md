@@ -124,6 +124,7 @@ These are some of the technologies and tools that I work with:
     <th>Hosting</th>
     <td>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=orange" />
+     <img src="https://img.shields.io/badge/Flask-orange?style=flat-square&logo=black&logoColor=orange" />
     </td>
   </tr>
   <tr>
