@@ -116,6 +116,15 @@ These are some of the technologies and tools that I work with:
     <td>
       <img src="https://img.shields.io/badge/-Qt-black?style=flat-square&logo=qt&logoColor=Crayola" />
     </td>
+    <td>
+      <img src="https://img.shields.io/badge/-Qt-black?style=flat-square&logo=git&logoColor=Crayola" />
+    </td>
+   <td>
+      <img src="https://img.shields.io/badge/-Qt-black?style=flat-square&logo=gradle&logoColor=Crayola" />
+    </td>
+   <td>
+      <img src="https://img.shields.io/badge/-Qt-black?style=flat-square&logo=docker&logoColor=Crayola" />
+    </td>
   </tr>
   <tr>
     <th>Hosting</th>
