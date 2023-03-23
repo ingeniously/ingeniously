@@ -63,7 +63,7 @@ Some of the toys which i play with are Flutter ,Velocio ultra compact API, Atmel
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,autocad,c,dart,firebase,vscode,git,github,latex,matlab,html,css,js,py,raspberrypi,cpp,stackoverflow,mysql,matlab,androidstudio,firebase,flutter,julia,latex,md,mysql,qt,tensorflow,vscode&perline=12" /></a>
+    <img src="https://skillicons.dev/icons?i=arduino,autocad,c,dart,firebase,vscode,git,github,latex,matlab,html,css,js,py,raspberrypi,cpp,stackoverflow,mysql,matlab,androidstudio,firebase,flutter,julia,latex,md,mysql,qt,tensorflow,docker,flutter,flask,postman,overleaf,virtualstudio,vscode&perline=12" /></a>
   </p>
 
   <!-- :zap:  -->
@@ -124,7 +124,7 @@ These are some of the technologies and tools that I work with:
     <th>Hosting</th>
     <td>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=orange" />
-     <img src="https://img.shields.io/badge/Flask-orange?style=flat-square&logo=black&logoColor=orange" />
+     <img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=black&logoColor=orange" />
     </td>
   </tr>
   <tr>
