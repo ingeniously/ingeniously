@@ -108,28 +108,22 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/-dart-787CB5?style=flat-square&logo=dart" />
       <img src="https://img.shields.io/badge/-Python-ffff47?style=flat-square&logo=python" /> 
       <img src="https://img.shields.io/badge/-Julia-0078D67?style=flat-square&logo=julia" />  
-     <img src="https://img.shields.io/badge/-Matlab-787CB5?style=flat-square&logo=Matlab" /> 
+     <img src="https://img.shields.io/badge/-Matlab-787CB5?style=flat-square&logo=matlab" /> 
    </td>
   </tr>
   <tr>
     <th>Frameworks</th>
     <td>
       <img src="https://img.shields.io/badge/-Qt-black?style=flat-square&logo=qt&logoColor=Crayola" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/-Qt-black?style=flat-square&logo=git&logoColor=Crayola" />
-    </td>
-   <td>
-      <img src="https://img.shields.io/badge/-Qt-black?style=flat-square&logo=gradle&logoColor=Crayola" />
-    </td>
-   <td>
-      <img src="https://img.shields.io/badge/-Qt-black?style=flat-square&logo=docker&logoColor=Crayola" />
+      <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=Crayola" />
+      <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=Crayola" />
+      <img src="https://img.shields.io/badge/-Gradle-black?style=flat-square&logo=gradle&logoColor=green" />
     </td>
   </tr>
   <tr>
     <th>Hosting</th>
     <td>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=orange" />
     </td>
   </tr>
   <tr>
