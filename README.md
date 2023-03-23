@@ -63,7 +63,7 @@ Some of the toys which i play with are Flutter ,Velocio ultra compact API, Atmel
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,autocad,c,dart,firebase,vscode,git,github,latex,matlab,html,css,js,py,raspberrypi,cpp,stackoverflow,mysql,matlab,androidstudio,firebase,flutter,julia,latex,md,mysql,qt,tensorflow,docker,flutter,flask,postman,overleaf,virtualstudio,vscode&perline=12" /></a>
+    <img src="https://skillicons.dev/icons?i=arduino,autocad,c,dart,firebase,vscode,git,github,latex,matlab,html,css,js,py,raspberrypi,cpp,stackoverflow,mysql,matlab,androidstudio,firebase,flutter,julia,latex,md,mysql,qt,tensorflow,docker,flutter,flask,postman,overleaf,visualstudio,vscode&perline=12" /></a>
   </p>
 
   <!-- :zap:  -->
