@@ -210,14 +210,14 @@ These are some of the technologies and tools that I work with:
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 January 2023 - To: 02 May 2023
+From: 15 January 2023 - To: 03 May 2023
 
-Total Time: 92 hrs 34 mins
+Total Time: 94 hrs 7 mins
 
-Dart           32 hrs 43 mins  >>>>>>>>>----------------   35.36 %
-Python         29 hrs 27 mins  >>>>>>>>-----------------   31.83 %
-TeX            8 hrs 22 mins   >>-----------------------   09.05 %
-Other          7 hrs 30 mins   >>-----------------------   08.11 %
+Dart           32 hrs 43 mins  >>>>>>>>>----------------   34.77 %
+Python         31 hrs 1 min    >>>>>>>>-----------------   32.96 %
+TeX            8 hrs 22 mins   >>-----------------------   08.90 %
+Other          7 hrs 30 mins   >>-----------------------   07.97 %
 ```
 
 <!--END_SECTION:waka-->
