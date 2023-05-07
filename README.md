@@ -210,20 +210,20 @@ These are some of the technologies and tools that I work with:
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 January 2023 - To: 04 May 2023
+From: 15 January 2023 - To: 06 May 2023
 
-Total Time: 94 hrs 9 mins
+Total Time: 96 hrs 18 mins
 
-Dart           32 hrs 43 mins  >>>>>>>>>----------------   34.77 %
-Python         31 hrs 2 mins   >>>>>>>>-----------------   32.97 %
-TeX            8 hrs 22 mins   >>-----------------------   08.90 %
-Other          7 hrs 30 mins   >>-----------------------   07.97 %
-Markdown       3 hrs 58 mins   >------------------------   04.22 %
-YAML           3 hrs 57 mins   >------------------------   04.20 %
-Julia          2 hrs 14 mins   >------------------------   02.39 %
-OpenEdge ABL   52 mins         -------------------------   00.93 %
-JSON           44 mins         -------------------------   00.78 %
-Git            34 mins         -------------------------   00.61 %
+Dart           33 hrs 38 mins  >>>>>>>>>----------------   34.93 %
+Python         32 hrs 4 mins   >>>>>>>>-----------------   33.31 %
+TeX            8 hrs 22 mins   >>-----------------------   08.70 %
+Other          7 hrs 30 mins   >>-----------------------   07.79 %
+YAML           3 hrs 59 mins   >------------------------   04.14 %
+Markdown       3 hrs 58 mins   >------------------------   04.12 %
+Julia          2 hrs 14 mins   >------------------------   02.34 %
+OpenEdge ABL   52 mins         -------------------------   00.91 %
+JSON           44 mins         -------------------------   00.77 %
+Git            34 mins         -------------------------   00.60 %
 ```
 
 <!--END_SECTION:waka-->
