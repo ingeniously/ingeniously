@@ -209,8 +209,8 @@ These are some of the technologies and tools that I work with:
 # My GitHub contributions 
 <!--START_SECTION:waka-->
 
-```text
-From: 15 January 2023 - To: 01 June 2023
+```txt
+From: 15 January 2023 - To: 02 June 2023
 
 Total Time: 132 hrs 59 mins
 
