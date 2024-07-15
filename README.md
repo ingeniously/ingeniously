@@ -31,12 +31,16 @@
 <!-- <img src="https://octodex.github.com/images/luchadortocat.png" width="300" align="right"> -->
 <img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right">
 
-📍I am Cedric Francois , and I work on embedded system project,and robotic and also app dev.
+📍I am Cedric Francois , and I work on embedded system project,AI ,and robotic and also app dev.
 I enjoy learning new technologies and exploring tech.
-Some of the toys which i play with are Flutter ,Velocio ultra compact API, Atmel AVR .
-
-- 🔭 I’m working on Building mobile apps for domotique and IOT using Dart.
-- 🌱 I’m currently learning Python and exploring AI field.
+Some of the toys which  i like to play with Framework: From Docker for testing and deploying my 
+solutions, Gradle, Gitlab, Qt-creator, Flutter by Google, Notebooks (Jupyter, Pluto), Vim, Microsoft Machine learning 
+Studio, Firebase MySQL, TensorFlow, Atmel Studio for Microcontrollers to Git for Source code Management. 
+Sometimes I try to help some passionate like me on Stackoverflow by helping them solve their problems and I took 
+the habit of always sharing and hosting my research and works on GitHub as Open source or sometimes under MIT 
+licenses
+- 🔭 I’m working on areas related to Unmanned Intelligence Systems (UIS), Intelligent Transportation Systems (ITS), and the Internet of Things (IoT) for Smart Cities.
+- 🌱 I’m currently exploring Cloud Service Providers (CSP) namely Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP)..
 - 📫 Reach me bassoleyipene@gmail.com
 - ⚡ Fun fact: I love drinking ice tea while coding to make the code look icy🧊 😸
 
@@ -183,7 +187,7 @@ These are some of the technologies and tools that I work with:
 
 
   <p align="center">
-  <img src="assets/header.png" alt="You Still Here???"/>
+ 
 </p>
 
   <!-- SOCIAL LINKS -->
