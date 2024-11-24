@@ -214,7 +214,7 @@ These are some of the technologies and tools that I work with:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 January 2023 - To: 22 November 2024
+From: 16 January 2023 - To: 23 November 2024
 
 Total Time: 188 hrs 56 mins
 
