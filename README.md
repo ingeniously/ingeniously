@@ -30,18 +30,14 @@
 <!-- <img src="[https://octodex.github.com/images/luchadortocat.png](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e)" width="300" align="right"> -->
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300" align="right">
 
-📍I am Cedric Francois , and I work on embedded system project,AI ,and robotic and also app dev.
-I enjoy learning new technologies and exploring tech.
-Some of the toys which  i like to play with Framework: From Docker for testing and deploying my 
-solutions, Gradle, Gitlab, Qt-creator, Flutter by Google, Notebooks (Jupyter, Pluto), Vim, Microsoft Machine learning 
-Studio, Firebase MySQL, TensorFlow, Atmel Studio for Microcontrollers to Git for Source code Management. 
-Sometimes I try to help some passionate like me on Stackoverflow by helping them solve their problems and I took 
-the habit of always sharing and hosting my research and works on GitHub as Open source or sometimes under MIT 
-licenses
-- 🔭 I’m working on areas related to Unmanned Intelligence Systems (UIS), Intelligent Transportation Systems (ITS), and the Internet of Things (IoT) for Smart Cities.
-- 🌱 I’m currently exploring Cloud Service Providers (CSP) namely Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP)..
+📍I am Cedric Francois ,and I work on Autonomous Intelligent Systems with a focus on Unmanned Systems Transportation. My work involves trajectory planning, motion detection, decision-making for autonomous vehicles, and  multi-modal systems in autonomous driving. I am also exploring Multi-Camera Object Re-Identification, Self-Supervised Multi-Object Tracking, and Safety-Aware Contrastive Learning for trajectory prediction
+
+- ⚡ I'm currently Studying a Msc. in Computer Science and Artificial Intelligence with a focus Autonomous Intelligent Systems Engineering at Donguuk university in South Korea (Seoul)
+- 🔭 I’m working on areas related to Unmanned Intelligence Systems (UIS), Intelligent Transportation Systems (ITS), and Large Language Model(LMM).
+- 🌱 My expertise lies in AI, robotics, and machine learning for autonomous driving
+
 - 📫 Reach me bassoleyipene@gmail.com
-- ⚡ Fun fact: I love drinking ice tea while coding to make the code look icy🧊 😸
+
 
 <!-- Tech Stack -->
  <!--<h2 align="center">Tech Stack <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/laptop.gif" width="50"></h2>--> 
