@@ -25,11 +25,10 @@
   <img src="https://badges.pufler.dev/repos/sumanshekhar698"/>
   <img src="https://badges.pufler.dev/commits/monthly/sumanshekhar698" />
 </p> -->
-https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif
 </br></br></br></br>
 
 <!-- <img src="[https://octodex.github.com/images/luchadortocat.png](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e)" width="300" align="right"> -->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="300" align="right">
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300" align="right">
 
 📍I am Cedric Francois , and I work on embedded system project,AI ,and robotic and also app dev.
 I enjoy learning new technologies and exploring tech.
