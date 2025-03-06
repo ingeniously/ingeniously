@@ -28,7 +28,7 @@
 
 </br></br></br></br>
 
-<!-- <img src="https://octodex.github.com/images/luchadortocat.png" width="300" align="right"> -->
+<!-- <img src="[https://octodex.github.com/images/luchadortocat.png](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e)" width="300" align="right"> -->
 <img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right">
 
 📍I am Cedric Francois , and I work on embedded system project,AI ,and robotic and also app dev.
