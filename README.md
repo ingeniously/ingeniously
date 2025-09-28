@@ -209,7 +209,7 @@ These are some of the technologies and tools that I work with:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 January 2023 - To: 25 September 2025
+From: 16 January 2023 - To: 27 September 2025
 
 Total Time: 374 hrs 46 mins
 
