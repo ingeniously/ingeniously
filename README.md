@@ -30,10 +30,10 @@
 <!-- <img src="[https://octodex.github.com/images/luchadortocat.png](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e)" width="300" align="right"> -->
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300" align="right">
 
-📍I am Cedric Francois ,and I work on Autonomous Intelligent Systems with a focus on Unmanned Systems Transportation. My work involves trajectory planning, motion detection, decision-making for autonomous vehicles, and  multi-modal systems in autonomous driving. I am also exploring Multi-Camera Object Re-Identification, Self-Supervised Multi-Object Tracking, and Safety-Aware Contrastive Learning for trajectory prediction
+📍I am Cedric Francois ,and I work on Autonomous Intelligent Systems with a focus on Unmanned Systems Transportation. My work involves trajectory planning, motion detection, decision-making for autonomous vehicles, and  multi-modal systems in autonomous driving. I am also exploring Multi-Camera Object Re-Identification, Self-Supervised Multi-Object Tracking, and Safety-Aware  trajectory prediction
 
 - ⚡ I'm currently Studying a Msc. in Computer Science and Artificial Intelligence with a focus Autonomous Intelligent Systems Engineering at Donguuk university in South Korea (Seoul)
-- 🔭 I’m working on areas related to Unmanned Intelligence Systems (UIS), Intelligent Transportation Systems (ITS), and Large Language Model(LMM).
+- 🔭 I’m working on areas related to Unmanned Intelligence Systems (UIS), Intelligent Transportation Systems (ITS), and Large Multimodal Model(LMM).
 - 🌱 My expertise lies in AI, robotics, and machine learning for autonomous driving
 
 - 📫 Reach me bassoleyipene@gmail.com
