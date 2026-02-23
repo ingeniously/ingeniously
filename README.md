@@ -88,33 +88,11 @@
  <a href = "https://twitter.com/bassoleyipene"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="30px"/></a>
 </p> -->
 
-
-
-
-  <p align="center">
- 
-</p>
-
-  <!-- SOCIAL LINKS -->
-
-<i><h3 align="right">Connect with me</h3></i>
-
-<p align="right">
-  <a href="https://www.linkedin.com/in/cedric-fran%C3%A7ois-bassole/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/19126942/suman-shekhar">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/bassoleyipene">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" />
-  </a>
-
 <h2>commits 🐍</h2>
 
 <!--   <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/snake.gif" width="50"></h2> -->
 
-![Les Stats GitHub de cedric](https://github-readme-stats.vercel.app/api?username=ingeniously&show_icons=true&theme=radical)
+![Cedric's Github Statistics](https://github-readme-stats.vercel.app/api?username=ingeniously&show_icons=true&theme=radical)
 # My GitHub contributions 
 <!--START_SECTION:waka-->
 
